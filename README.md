@@ -4,7 +4,7 @@
 .env 填写数据库等信息
 前端打包 根据文档的教程改几行代码为你的后台的域名或者IP地址
 
-直接下载：[https://hsopan.com/892bcecbbb443f04](https://hsopan.com/73dbd444af4c0927)
+直接下载：https://hsopan.com/folder/9392ce88e4c355cd8988c9b822de95bf/XianYu_Shop
 
 ![输入图片说明](微信图片_20240707154009.png)
 ![输入图片说明](微信图片_20240707154043.png)
